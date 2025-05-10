@@ -4,7 +4,7 @@ import ParentComponent from "./components/parentComponent";
 export default function Home() {
   return(
     <>
-      <ParentComponent />
+      
     </>
   )
 }
