@@ -1,6 +1,6 @@
-import BreadcrumbHeader from './components/breadcrumbHeader';
-import SkipSelector from './components/skipSelector';
-import BottomBar from './components/bottomBar';
+import BreadcrumbHeader
+import SkipSelector from '@/components/SkipSelector';
+import BottomBar from '@/components/BottomBar';
 
 export default function SkipPage() {
   return (
