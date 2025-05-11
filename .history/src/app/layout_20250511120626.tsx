@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Interview-REMWaste",
-  description: "Created by Sbughea Vlad for the interview",
+  description: "Created by Sbughea Vlad",
 };
 
 export default function RootLayout({
